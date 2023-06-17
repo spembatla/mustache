@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    padding: 0;
+    width: auto;
+    
+}
+#header{
+    margin: 0;
+    padding: 44px 50px;
+    width: 100%;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.l{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 0;
+    padding: 20px 0 0;
+}
+.x{
+    padding: 25px;
+    margin: 0;
+}
+.o{
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+    color: #000;
+}
+.o:hover{
+    color:ghostwhite;
+    background-color: lightblue;
+    border: #fff; 
+}
+#body{
+    margin: 0;
+    padding: 0 0 20px;
+}
+.i{
+    margin:  0;
+    padding: 0 0 0 0px;
+    position: relative;
+    width:100%;
+}
+.t {
+    position: absolute;
+    left: 50%;
+    margin-left: 150px;
+    margin-top: -15px;
+    top: 5%;
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+    
+}
+h2{
+    background: #fff;
+    color: #000;
+    font-size: 25px;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+p{
+    background-color:#000;
+    color: #fff;
+    margin: 8px 0;
+    padding: 12px 27px;
+    font-size: 25px;
+}
+.span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+.foot{
+    background: #000;
+    color: #fff;
+    margin: 0;
+    padding: 25px 0 30px;
+    text-align: left;
+}
+.a{
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid darkgray;
+    padding: 8px;
+}
+.a:hover{
+    color:gainsboro;
+    background-color: black;
+    border: 1px solid #fff;
+}
+.li{
+    padding: 5px;
+}
+ul{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 0;
+    padding: 20px 0 0;
+}
+.u{
+    border: 2px solid #000;
+}
+.e{
+    color: #fff;
+    background-color: darkcyan;
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+}
+.e:hover{
+    color:darkslategray;
+    background-color:lemonchiffon
+
+}
